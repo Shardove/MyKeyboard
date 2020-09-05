@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    
+    <color name="keyboard_bg_color">#82000000</color>
+    <color name="keyboard_divider">#032C2E</color>
+    <color name="keyboard_pressed">#51E6E0</color>
+
+</resources>
